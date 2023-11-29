@@ -3,7 +3,7 @@
 	"main": "main",
 	"version": "0.0.1",
 	"dependencies": {
-		"moment": "0.0.1",
+		"moment": "2.29.2",
 		"dep": "0.0.1"
 	},
 	"system": {
