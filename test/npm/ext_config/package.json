@@ -3,7 +3,7 @@
 	"main": "main",
 	"version": "1.0.0",
 	"dependencies": {
-		"one": "1.0.0"
+		"one": "1.1.0"
 	},
 	"system": {
 		"plugins": [
